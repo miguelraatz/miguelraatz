@@ -1,14 +1,20 @@
+<h1 align="center"> Olá pessoas - Bem-vindo ao meu github! 👋</h1>
 <img src="https://live.staticflickr.com/65535/52692317997_cd074d5d35_h.jpg" alt="banner" />
-## Olá pessoas - Bem-vindo ao meu github! 👋
 
 ## 💬 Sobre Mim:
 
-✨ Meu nome é Miguel Oscar Raatz Junior, natural de Terra Roxa - Paraná, região Oeste.
-Apaixonado por tecnologia desde minha infância, aos 30 anos resolvi ir em busca de meus sonhos,
-decidi me profissionalizar em Desenvolvimento Web para poder trabalhar em alguma grande empresa.
-Logo mais tenho certeza que serei um grande profissional, pois estou a cada dia procurando desenvolver
-minhas habilidades. Adoro contribuir com projetos e ajudar pessoas nos desafios do dia-a-dia
-principalmente envolvendo códigos. ✨
+<p>✨ Meu nome é Miguel Oscar Raatz Junior,
+natural de Terra Roxa - Paraná, região Oeste.
+Apaixonado por tecnologia desde minha infância, aos 30 anos
+resolvi ir em busca de meus sonhos, decidi me profissionalizar
+em Desenvolvimento Web para poder trabalhar em alguma grande empresa.
+Logo mais tenho certeza que serei um grande profissional,
+pois estou a cada dia procurando desenvolver
+minhas habilidades. Adoro contribuir com projetos e
+ajudar pessoas nos desafios do dia-a-dia
+principalmente envolvendo códigos. ✨</p>
+
+<img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47v7b02318k6wrd4gmbnxvxsdwpjjgxz33jny8zkay&rid=giphy.gif&ct=g" alt="code" />
 
 ## 🌱 Skills
 
@@ -16,6 +22,9 @@ principalmente envolvendo códigos. ✨
 
 ## ⚡  GitHub Status:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelraatz&theme=blue-green" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraatz&theme=blue-green" />
+
+## 📫 Contato
+<a href="https://www.linkedin.com/in/miguelraatz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a><a href="mailto:miguelraatzdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 <!--
 **miguelraatz/miguelraatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
