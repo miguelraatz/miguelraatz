@@ -4,7 +4,7 @@
 Apaixonado por tecnologia desde minha infância, aos 30 anos resolvi ir em busca de meus sonhos,
 decidi me profissionalizar em Desenvolvimento Web para poder trabalhar em alguma grande empresa.
 Logo mais tenho certeza que serei um grande profissional, pois estou a cada dia procurando desenvolver
-minhas habilidades. Adoro contribuir com projetos e ajudar pessoas nos desafios de códigos.
+minhas habilidades. Adoro contribuir com projetos e ajudar pessoas nos desafios de códigos. ✨
 
 <!--
 **miguelraatz/miguelraatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
