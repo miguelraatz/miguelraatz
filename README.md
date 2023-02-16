@@ -1,6 +1,6 @@
 ### Olá pessoas - Bem-vindo ao meu github! 👋
 
-## ✨ Meu nome é Miguel Oscar Raatz Junior, moro no interior do Paraná, região Oeste.
+✨ Meu nome é Miguel Oscar Raatz Junior, moro no interior do Paraná, região Oeste.
 Apaixonado por tecnologia desde minha infância, aos 30 anos resolvi ir em busca de meus sonhos,
 decidi me profissionalizar em Desenvolvimento Web para poder trabalhar em alguma grande empresa.
 Logo mais tenho certeza que serei um grande profissional, pois estou a cada dia procurando desenvolver
