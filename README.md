@@ -1,5 +1,5 @@
 <h1 align="center"> Olá pessoas - Bem-vindo ao meu github! 👋</h1>
-<img src="https://files.fm/f/hg6epjaug" alt="banner" />
+<img src="https://files.fm/u/xb5j4hnnk" alt="banner" />
 
 ## 💬 Sobre Mim:
 
