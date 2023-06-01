@@ -1,5 +1,4 @@
 <h1 align="center"> Olá pessoas - Bem-vindo ao meu github! 👋</h1>
-<img src="https://fv9-6.failiem.lv/thumb_show.php?i=hg6epjaug&view" alt="banner" />
 
 ## 💬 Sobre Mim:
 
