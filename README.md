@@ -38,7 +38,7 @@ alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
-<img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=007ACC"
+<img src="https://img.shields.io/visual-studio-app-center/builds/:owner/:app/:branch/:token"
 alt="R logo" title="R" height="25" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
 alt="Python logo" title="Python" height="25" />
