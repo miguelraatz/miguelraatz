@@ -25,7 +25,25 @@ Se você está procurando um desenvolvedor web full stack altamente motivado e d
 
 ## 🌱 Skills
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logojavascript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logoTypeScript"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="logoPython"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logohtml"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logocss"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logoreact"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="logoredux"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="logoDocker"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="logoMySQL"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="logoNode"/> <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="logojest"/> <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" alt="logortl"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logoGit"/>
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB"
+alt="React logo" title="React.js / React Native" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL logo" title="MySQL" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" />
+<img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
+alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/R-282C34?logo=R&logoColor=007ACC"
+alt="R logo" title="R" height="25" />
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
+alt="Python logo" title="Python" height="25" />
+<span/>
+<br />
 
 ## ⚡  GitHub Status:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelraatz&theme=blue-green" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraatz&theme=blue-green" />
