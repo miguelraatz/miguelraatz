@@ -24,7 +24,7 @@ Se você está procurando um desenvolvedor web full stack altamente motivado e d
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47v7b02318k6wrd4gmbnxvxsdwpjjgxz33jny8zkay&rid=giphy.gif&ct=g" alt="code" />
 
 ## 🌱 Skills
-
+<span>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
