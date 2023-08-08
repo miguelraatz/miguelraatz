@@ -31,7 +31,7 @@ Se você está procurando um desenvolvedor web full stack altamente motivado e d
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=F7DF1E" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB"
 alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=F7DF1E" alt="Angular logo" title="Angular" height="25" />
+<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FF0000" alt="Angular logo" title="Angular" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL logo" title="MySQL" height="25" />
