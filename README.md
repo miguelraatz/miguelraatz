@@ -1,67 +1,118 @@
-<h1 align="center"> Olá pessoas - Bem-vindo ao meu github! 👋</h1>
 
-## 💬 Sobre Mim:
+<div align="center">
 
-<p>✨ Meu nome é Miguel Oscar Raatz Junior,
-natural de Terra Roxa - Paraná, região Oeste.
-Apaixonado por tecnologia desde minha infância, aos 30 anos
-resolvi ir em busca de meus sonhos, decidi me profissionalizar
-em Desenvolvimento Web para poder trabalhar em alguma grande empresa.
+# Olá, eu sou o Miguel Raatz! 👋
 
-Logo mais tenho certeza que serei um grande profissional,
-pois estou a cada dia procurando desenvolver
-minhas habilidades. Adoro contribuir com projetos e
-ajudar pessoas nos desafios do dia-a-dia
-principalmente envolvendo códigos.
+### Software Engineer | Back-End Developer | Java & Spring Boot
 
-Meus projetos no GitHub incluem exemplos de aplicações web que criei usando as tecnologias mais recentes. Eu adoro compartilhar meu conhecimento com a comunidade de desenvolvedores, e estou sempre aberto a feedback e sugestões para melhorar meus projetos.
+Desenvolvedor de software apaixonado por tecnologia, resolução de problemas e construção de soluções que fazem a diferença.
 
-Se você está procurando um desenvolvedor web full stack altamente motivado e dedicado, sinta-se à vontade para explorar meus projetos no GitHub ou entrar em contato comigo para discutir como podemos colaborar em um projeto emocionante."✨</p>
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguel-raatz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelraatz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelraatzdev@gmail.com)
 
-<h2>Portfólio - https://miguel-raatz-portfolio.vercel.app/</h2>
+</div>
 
+---
 
-<img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47v7b02318k6wrd4gmbnxvxsdwpjjgxz33jny8zkay&rid=giphy.gif&ct=g" alt="code" />
+## 👨‍💻 Sobre mim
 
-## 🌱 Skills
-<span>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=F7DF1E" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB"
-alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=C3002F" alt="Angular logo" title="Angular" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL logo" title="MySQL" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" />
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" />
-<img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
-alt="Docker logo" title="Docker" height="25" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=007ACC"
-alt="Python logo" title="Python" height="25" />
-<span/>
-<br />
+Sou **Miguel Oscar Raatz Junior**, desenvolvedor de software, natural de Terra Roxa, Paraná.
 
-## ⚡  GitHub Status:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelraatz&theme=blue-green" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraatz&theme=blue-green" />
+Minha trajetória na tecnologia começou com o desenvolvimento web Full Stack e evoluiu para uma atuação profissional focada em **desenvolvimento Back-End**, principalmente com Java e Spring Framework.
 
-## 📫 Contato
-<a href="https://www.linkedin.com/in/miguelraatz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a><a href="mailto:miguelraatzdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+Tenho aproximadamente 3 anos de experiência no desenvolvimento e manutenção de sistemas corporativos, trabalhando com construção de APIs REST, integrações entre sistemas, bancos de dados relacionais e evolução de aplicações.
 
-<!--
-**miguelraatz/miguelraatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Durante minha experiência profissional na **Sovis Sistemas de TI**, participei de atividades como:
 
-Here are some ideas to get you started:
+- Desenvolvimento e manutenção de aplicações utilizando Java e Spring.
+- Construção e integração de APIs REST e serviços SOAP.
+- Correção de bugs, implementação de melhorias e evolução de funcionalidades.
+- Migração e atualização de aplicações para Java 11.
+- Manipulação de dados utilizando SQL e MySQL.
+- Utilização de Docker, Git e práticas de Code Review.
+- Trabalho colaborativo com metodologias ágeis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, sigo aprimorando meus conhecimentos em Engenharia de Software, arquitetura de aplicações e boas práticas de desenvolvimento, buscando novos desafios e oportunidades de crescimento profissional.
+
+Acredito que desenvolver software vai além de escrever código: é compreender problemas, propor soluções eficientes e gerar valor por meio da tecnologia.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### Back-End
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,maven" />
+</p>
+
+### Front-End
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,redux" />
+</p>
+
+### Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Ferramentas e DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+</p>
+
+### Práticas e Metodologias
+
+- APIs REST e integrações SOAP
+- Programação Orientada a Objetos (POO)
+- Clean Code
+- Testes unitários com JUnit
+- Code Review
+- Scrum e Kanban
+- Versionamento com Git
+
+---
+
+## 📚 Atualmente
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- ☕ Aprofundando conhecimentos no ecossistema Java e Spring.
+- 🏗️ Aprimorando conceitos de arquitetura e boas práticas de software.
+- 💻 Desenvolvendo projetos pessoais e explorando novas tecnologias.
+- 🤝 Aberto a oportunidades profissionais e colaboração em projetos.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguelraatz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraatz&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+Estou sempre aberto a trocar experiências, compartilhar conhecimentos e conversar sobre tecnologia, desenvolvimento de software e novas oportunidades.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Raatz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelraatz/)
+
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelraatzdev@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Conheça_meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguel-raatz-portfolio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Transformando problemas em soluções através do código."*
+
+</div>
